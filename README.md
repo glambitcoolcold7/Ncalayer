@@ -177,3 +177,6 @@ This repository serves as the official landing page for NCALayer. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NCALayer today!**
+
+---
+**Last updated:** 2026-11-08 10:04:03 UTC
