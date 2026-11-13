@@ -179,4 +179,4 @@ This repository serves as the official landing page for NCALayer. The software i
 **Get the most recent version of NCALayer today!**
 
 ---
-**Last updated:** 2026-11-12 23:26:40 UTC
+**Last updated:** 2026-11-13 06:07:10 UTC
